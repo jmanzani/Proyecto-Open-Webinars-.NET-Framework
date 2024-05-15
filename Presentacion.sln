@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{B404B73B-653F-472B-A8CC-AEA383D3CBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{3D7CA074-BA34-47DB-978D-1721D29DA736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{9B1B7B66-14A3-4FC4-9E09-06EF8EB55291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B404B73B-653F-472B-A8CC-AEA383D3CBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B404B73B-653F-472B-A8CC-AEA383D3CBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B404B73B-653F-472B-A8CC-AEA383D3CBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B404B73B-653F-472B-A8CC-AEA383D3CBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7CA074-BA34-47DB-978D-1721D29DA736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7CA074-BA34-47DB-978D-1721D29DA736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7CA074-BA34-47DB-978D-1721D29DA736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7CA074-BA34-47DB-978D-1721D29DA736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1B7B66-14A3-4FC4-9E09-06EF8EB55291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1B7B66-14A3-4FC4-9E09-06EF8EB55291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1B7B66-14A3-4FC4-9E09-06EF8EB55291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1B7B66-14A3-4FC4-9E09-06EF8EB55291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {605143CE-A3F6-49B3-81A7-CFD12304B283}
+	EndGlobalSection
+EndGlobal
